@@ -1,4 +1,4 @@
-Project overview
+**Project overview**
 
 ClimaCast (Real-Time Weather Dashboard) is a Python-based desktop application that combines OpenWeatherMap API, Tkinter GUI, and 
 Matplotlib visualization to provide users with real-time weather updates and forecast analysis.
@@ -15,7 +15,7 @@ The program allows users to:
 
 It demonstrates API integration, JSON handling, GUI design, and data visualization — all within a single desktop application.
 
-🖥️ Features
+🖥️ **Features**
 
 1.Real-time temperature, humidity, and conditions display
 
@@ -27,7 +27,7 @@ It demonstrates API integration, JSON handling, GUI design, and data visualizati
 
 5.Responsive, user-friendly GUI
 
-🔮 Future Scope
+🔮 **Future Scope**
 
 --> Add geolocation detection
 
